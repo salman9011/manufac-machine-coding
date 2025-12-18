@@ -5,7 +5,6 @@ A TypeScript-based data visualization application for analyzing Retail Selling P
 ## 🚀 Live Demo
 
 [Deployment URL](https://manufac-machine-coding-git-main-salman9011s-projects.vercel.app/)
-xx
 ## 📊 Features
 
 - Interactive dropdowns to filter by:
