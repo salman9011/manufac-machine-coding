@@ -4,7 +4,7 @@ A TypeScript-based data visualization application for analyzing Retail Selling P
 
 ## 🚀 Live Demo
 
-[Deployment URL](https://vercel.com/salman9011s-projects/manufac-machine-coding/Cf5f231MRDdGsPqDt5oZWaGW1ykx#L30)
+[Deployment URL](https://manufac-machine-coding-git-main-salman9011s-projects.vercel.app/)
 xx
 ## 📊 Features
 
@@ -93,7 +93,7 @@ The application implements efficient algorithms for data processing:
 
 ## 🚀 Deployment
 
-The application is deployed on [Vercel](https://vercel.com/salman9011s-projects/manufac-machine-coding/Cf5f231MRDdGsPqDt5oZWaGW1ykx#L30).
+The application is deployed on [Vercel](https://manufac-machine-coding-git-main-salman9011s-projects.vercel.app/).
 
 ## 👥 Author
 
