@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/filtercontrols.tsx","./src/components/fuelpricechart.tsx","./src/hooks/usefueldata.ts","./src/types/index.ts","./src/utils/dataprocessing.ts"],"version":"5.9.3"}

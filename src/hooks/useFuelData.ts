@@ -26,7 +26,8 @@ export const useFuelData = () => {
      * Parse CSV data and transform to FuelPriceRecord format
      * Runs once on component mount
      */
-    Papa.parse<RawCSVRow>('/public/data/fuel-prices.csv', {
+   
+    Papa.parse<RawCSVRow>('/data/fuel-prices.csv', {
       download: true,
       header: true,
       skipEmptyLines: true,
